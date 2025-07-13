@@ -29,3 +29,4 @@ In this task, all three datasets were merged by:
 
 Combining datasets did not significantly outperform the best individual model, indicating that some representations were more informative than others.
 
+This repository is intended for academic use only.
